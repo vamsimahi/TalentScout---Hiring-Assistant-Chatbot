@@ -22,8 +22,7 @@ Steps:
 
 Clone the Repository
 
-git clone https://github.com/your-repo/talent-scout.git
-cd talent-scout
+(https://github.com/vamsimahi/TalentScout---Hiring-Assistant-Chatbot)
 
 Create a Virtual Environment (Optional but recommended)
 
