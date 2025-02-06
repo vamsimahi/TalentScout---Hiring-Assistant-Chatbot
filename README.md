@@ -1,5 +1,6 @@
 # TalentScout - Hiring Assistant Chatbot
 
+Loom video-link:https://www.loom.com/share/45de4625d92e48b6bbef8d50bd2d15e6?sid=3b959844-0507-43f6-9af1-5713fbb2d2a2
 Project Overview
 
 TalentScout is an AI-powered Hiring Assistant chatbot designed to streamline the job application process. It collects candidate details, analyzes their tech stack, and generates relevant technical questions to assess their expertise. The chatbot helps recruiters evaluate applicants efficiently by automating the initial screening process.
